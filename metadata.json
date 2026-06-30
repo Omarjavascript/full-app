@@ -1,0 +1,6 @@
+{
+  "name": "Calorie Tracker",
+  "description": "A secure calorie tracker and meal planner with progress visualization, end-to-end encryption, offline support, and smart meal planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
